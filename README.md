@@ -38,13 +38,13 @@ project is written at the end of the study of Javascript.
 
 **The Web App provides the following functions:**
 
-:black_circle: Search movie by a key word
+:black_circle: search movie by a key word
 
 :orange_circle: pagination...
 
-:green_circle: ?
+:green_circle: manage your film database by adding or deleting chosen movie to WATCHED or to QUEUE
 
-:star: x
+:star: in LIBRARY you can see your database of movies divided by 2 categories: WATCHED and QUEUE
 
 :world_map: y
 
