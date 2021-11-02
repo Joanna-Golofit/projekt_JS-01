@@ -23,6 +23,8 @@
 <h2 align="center"><a href="https://masa87.github.io/JS_Project-1/">GitHub Pages</a></h2> && <h2 align="center"><a href="https://filmoteka-pro.netlify.app/">Netlify</a></h2>
 <span align="center">[GitHub Pages](https://masa87.github.io/JS_Project-1/) && [Netlify](https://filmoteka-pro.netlify.app/)</span>
   
+[GitHub Pages](https://masa87.github.io/JS_Project-1/) && [Netlify](https://filmoteka-pro.netlify.app/)  
+  
 ## Description
 
 The project is implemented in vanilla JavaScript using Snowpack and working with
