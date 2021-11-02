@@ -26,9 +26,9 @@
 [GitHub Pages](https://masa87.github.io/JS_Project-1/) && [Netlify](https://filmoteka-pro.netlify.app/)  
   
 <span align="center">   
-  <a href="https://masa87.github.io/JS_Project-1/">GitHub Pages</a>
+  <a align="center" href="https://masa87.github.io/JS_Project-1/">GitHub Pages</a>
   <p>&&</p>
-  <a href="https://filmoteka-pro.netlify.app/">Netlify</a>
+  <a align="center" href="https://filmoteka-pro.netlify.app/">Netlify</a>
 </span>
   
 ## Description
