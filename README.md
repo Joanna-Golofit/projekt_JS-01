@@ -21,6 +21,7 @@
 </span> 
 
 <h2 align="center"><a href="https://masa87.github.io/JS_Project-1/">GitHub Pages</a></h2>
+  <h2 align="center"><a href="https://filmoteka-pro.netlify.app/">Netlify</a></h2>
 
 ## Description
 
@@ -39,8 +40,6 @@ project is written at the end of the study of Javascript.
 **The Web App provides the following functions:**
 
 :black_circle: search movie by a key word,
-
-:orange_circle: 
   
 :green_circle: manage your film database by adding or deleting chosen movie to WATCHED or to QUEUE,
 
@@ -49,4 +48,5 @@ project is written at the end of the study of Javascript.
 :world_map: in LIBRARY you can see your database of movies divided by 2 categories: WATCHED and QUEUE,
 
 :black_circle: Responsive design for use on phone :iphone:, tablet and desktop :desktop_computer:.
+  :orange_circle: 
 
