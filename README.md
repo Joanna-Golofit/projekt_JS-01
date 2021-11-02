@@ -34,7 +34,7 @@
 </span>
   
   
-## You can check it at:
+## You can check it at
   
 [GitHub Pages](https://masa87.github.io/JS_Project-1/) && [Netlify](https://filmoteka-pro.netlify.app/) 
   
