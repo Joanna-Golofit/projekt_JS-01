@@ -24,6 +24,8 @@
 <span align="center">[GitHub Pages](https://masa87.github.io/JS_Project-1/) && [Netlify](https://filmoteka-pro.netlify.app/)</span>
   
 [GitHub Pages](https://masa87.github.io/JS_Project-1/) && [Netlify](https://filmoteka-pro.netlify.app/)  
+<a align="center" href="https://masa87.github.io/JS_Project-1/">![GitHub Pages]</a> 
+  
   
 ## Description
 
