@@ -49,7 +49,7 @@ project is written at the end of the study of Javascript.
 
 ## How to use Filmoteka
 
-... is the site for searching ... movies ;p
+... is the site for searching ... movies ;)
 
 
 **The Web App provides the following functions:**
