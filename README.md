@@ -38,16 +38,15 @@ project is written at the end of the study of Javascript.
 
 **The Web App provides the following functions:**
 
-:black_circle: search movie by a key word
+:black_circle: search movie by a key word,
 
-:orange_circle: pagination...
+:orange_circle: 
+  
+:green_circle: manage your film database by adding or deleting chosen movie to WATCHED or to QUEUE,
 
-:green_circle: manage your film database by adding or deleting chosen movie to WATCHED or to QUEUE
+:star: pagination allows you to easily navigate between movies,
 
-:star: in LIBRARY you can see your database of movies divided by 2 categories: WATCHED and QUEUE
+:world_map: in LIBRARY you can see your database of movies divided by 2 categories: WATCHED and QUEUE,
 
-:world_map: y
-
-:black_circle: Responsive design for use on phone :iphone:, tablet and desktop
-:desktop_computer:.
+:black_circle: Responsive design for use on phone :iphone:, tablet and desktop :desktop_computer:.
 
